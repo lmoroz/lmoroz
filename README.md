@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on spadmin.org
-- 🌱 I’m currently learning vue.js, Nuxt.js, Deno
+- 🔭 I’m currently working on spadmin.org with PHP, vue.js, svelte.js, sapper.js
+- 🌱 I’m currently learning Deno
 - 👯 I’m looking to collaborate on machine learning
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about Anything
