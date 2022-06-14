@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about Anything
 - 📫 How to reach me: larisa.moroz@gmail.com
+
+
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmoroz&layout=compact&langs_count=10&theme=onedark)](https://github.com/lmoroz)
+![lmoroz GitHub stats](https://github-readme-stats.vercel.app/api?username=lmoroz&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)
