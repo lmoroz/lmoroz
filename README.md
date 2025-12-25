@@ -38,17 +38,49 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: larisa.moroz@gmail.com
 
-
-
-
-
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2>:fire: My Stats</h2>
     <a style="display: flex; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmoroz&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+	<picture style="margin-bottom: 10px;">
+	<source
+		media="(prefers-color-scheme: dark)"
+			srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmoroz&theme=dark"
+		/>
+		<source
+			media="(prefers-color-scheme: light)"
+			srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmoroz"
+		/>
+		<img
+			alt="GitHub Profile Summary"
+			src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmoroz"
+		/>
+	</picture>
     </a>
     <a style="display: flex;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmoroz&theme=dark" style="margin-right: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmoroz&theme=dark">
+        <picture style="margin-right: 10px;">
+            <source
+                media="(prefers-color-scheme: dark)"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmoroz&theme=dark"
+            />
+            <source
+                media="(prefers-color-scheme: light)"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmoroz"
+            />
+            <img
+                alt="GitHub Profile Summary"
+                src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmoroz"
+            />
+        </picture>
+        <picture>
+            <source
+                media="(prefers-color-scheme: dark)"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmoroz&theme=dark"
+            />
+            <source
+                media="(prefers-color-scheme: light)"
+                srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmoroz"
+            />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmoroz" />
+        </picture>
     </a>
 </div>
