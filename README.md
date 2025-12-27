@@ -31,12 +31,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on with vue.js, Java
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on machine learning
-- 🤔 I’m looking for help with machine learning
-- 💬 Ask me about Anything
-- 📫 How to reach me: larisa.moroz@gmail.com
+- 🔭 I’m currently working on with vue.js
+- 🌱 I’m currently learning Golang
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2>:fire: My Stats</h2>
