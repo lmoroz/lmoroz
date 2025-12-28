@@ -1,24 +1,3 @@
-<div align="center">
-  <div align="center">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      />
-      <img
-        alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      />
-  </picture>
-  </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=lmoroz&label=Profile%20Visits&style=for-the-badge" />
-  <br>
-</div>
-
 ### Hi there 👋
 
 <!--
@@ -36,7 +15,8 @@ Here are some ideas to get you started:
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2>:fire: My Stats</h2>
-    <a style="display: flex; align-items: center;">
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=lmoroz&label=Profile%20Visits&style=for-the-badge" />
+    <div style="display: flex; align-items: center;">
 	<picture style="margin-bottom: 10px;">
 	<source
 		media="(prefers-color-scheme: dark)"
@@ -78,5 +58,5 @@ Here are some ideas to get you started:
             />
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmoroz" />
         </picture>
-    </a>
+    </div>
 </div>
