@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on with vue.js
+- 🔭 I’m currently working on with vue.js, Golang
 - 🌱 I’m currently learning Golang
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
